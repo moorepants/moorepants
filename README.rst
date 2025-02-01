@@ -10,7 +10,8 @@ human-bicycle system's motion. I also write software to support my teaching and
 learning activities as well as tinker with programming as a hobby. I strive to
 use and contribute to open source software in the majority of computing I do. I
 have been a Linux user since 2008 and maintain repositories of my dotfiles_ and
-`useful scripts`_.
+`useful scripts`_. I write most of my software in type hint-free Python, which
+is a beautiful language to read and write.
 
 .. _dotfiles: https://github.com/moorepants/dotfiles
 .. _useful scripts: https://github.com/moorepants/bin
