@@ -10,9 +10,9 @@ also write software to support my teaching and learning activities as well as
 tinker with programming as a hobby. I strive to use and contribute to
 open-source software in the majority of computing I do. I have been a Linux
 user since 2008 and maintain repositories of my dotfiles_ and `useful
-scripts`_. I write most of my software in type hint-free Python, which is a
-beautiful language to read and write, but I also write R, Bash, Octave/Matlab,
-C, and HTML/CSS/JS.
+scripts`_. I write most of my software with Vim in type hint-free Python, which
+is a beautiful language to read and write, but I also write R, Bash,
+Octave/Matlab, C, and HTML/CSS/JS.
 
 .. _Bicycle Laboratorium: https://github.com/mechmotum
 .. _dotfiles: https://github.com/moorepants/dotfiles
