@@ -18,16 +18,16 @@ Octave/Matlab, C, and HTML/CSS/JS.
 .. _dotfiles: https://github.com/moorepants/dotfiles
 .. _useful scripts: https://github.com/moorepants/bin
 
-I wrote my Ph.D. dissertation_ in the open with the goal of full computational
-reproducibility, from raw data to figures and tables in the document, and to
-have both a website_ and print version. Since then, I have tried to make all my
-subsequent manuscripts reproducible in the same way. I have contributed code to
-SymPy_ since 2011 and maintain the physics vector_, mechanics_, and
-biomechanics_ packages therein for both research and teaching. I also help
-maintain other SymPy physics packages and its code generation tools. To support
-my and my lab's research, I have written and/or maintain a number of software
-packages: BicycleParameters_, DynamicistToolKit_, yeadon_, HumanControl_,
-pydy_, GaitAnalysisToolKit_, opty_, and cyipopt_.
+I wrote my 2012 Ph.D. dissertation_ in the open with the goal of full
+computational reproducibility, from raw data to figures and tables in the
+document, and to have both a website_ and print version. Since then, I have
+tried to make all my subsequent manuscripts reproducible in the same way. I
+have contributed code to SymPy_ since 2011 and maintain the physics vector_,
+mechanics_, and biomechanics_ packages therein for both research and teaching.
+I also help maintain other SymPy physics packages and its code generation
+tools. To support my and my lab's research, I have written and/or maintain a
+number of software packages: BicycleParameters_, DynamicistToolKit_, yeadon_,
+HumanControl_, pydy_, GaitAnalysisToolKit_, opty_, and cyipopt_.
 
 .. _dissertation: https://github.com/moorepants/dissertation
 .. _website: http://moorepants.github.io/dissertation
