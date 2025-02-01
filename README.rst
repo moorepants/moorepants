@@ -4,22 +4,59 @@ moorepants
 
 For my day job, I am an assistant professor of Biomechanical Engineering at
 Delft University of Technology. Most of the open source software I contribute
-to is to support the research we do at the `Bicycle Lab
+to is to support the research we do at the `Bicycle Laboratorium
 <http://bicycle.tudelft.nl>`_ and concerns the simulation and analysis of the
 human-bicycle system's motion. I also write software to support my teaching and
-learning activities. I also tinker with programming as a hobby and try to
-exclusively use open source software in my computing tasks.
+learning activities as well as tinker with programming as a hobby. I strive to
+use and contribute to open source software in the majority of computing I do. I
+have been a Linux user since 2008 and maintain repositories of my dotfiles_ and
+`useful scripts`_.
 
-Educational Repositories
-========================
+.. _dotfiles: https://github.com/moorepants/dotfiles
+.. _useful scripts: https://github.com/moorepants/bin
 
-- `Learn Multibody Dynamics
-  <https://github.com/moorepants/learn-multibody-dynamics>`_: My online book
-  geared towards learning computational multibody dynamics.
-- `Resonance <https://github.com/moorepants/resonance>`_: A software package and
-  collection of teaching Jupyter notebooks for learning undergraduate
-  mechanical vibrations.
-- `Teaching and Learning with Jupyter
-  <https://jupyter4edu.github.io/jupyter-edu-book/>`_: A book we co-wrote to
-  give a starting point and best practices for using Jupyter (notebooks) in
-  pedagogy.
+I wrote my Ph.D. dissertation_ in the open with the goal of full computational
+reproducibility, from raw data to figures and tables in the document, and to
+have both a website and traditional PDF. I have contributed code to SymPy_
+since 2011 and maintain the physics vector_, mechanics_, and biomechanics_
+packages therein for both research and teaching. I help maintain other SymPy
+physics packages and its code generation tools. To support my and my lab's
+research, I have written and/or maintain a number of software packages:
+BicycleParameters_, DynamicistToolKit_, yeadon_, HumanControl_, pydy_,
+GaitAnalysisToolKit_, opty_, and cyipopt_.
+
+.. _dissertation: https://github.com/moorepants/dissertation
+.. _SymPy: https://www.sympy.org
+.. _vector: https://docs.sympy.org/latest/modules/physics/vector/index.html
+.. _mechanics: https://docs.sympy.org/latest/modules/physics/mechanics/index.html
+.. _biomechanics: https://docs.sympy.org/latest/modules/physics/biomechanics/index.html
+.. _BicycleParameters: https://github.com/moorepants/BicycleParameters
+.. _DynamicistToolKit: https://github.com/moorepants/DynamicistToolKit
+.. _yeadon: https://github.com/chrisdembia/yeadon
+.. _HumanControl: https://github.com/moorepants/HumanControl
+.. _pydy: https://github.com/pydy/pydy
+.. _GaitAnalysisToolKit: https://github.com/csu-hmc/GaitAnalysisToolKit
+.. _opty: https://github.com/csu-hmc/opty
+.. _cyipopt: https://github.com/mechmotum/cyipopt
+
+I employ the ideas of computational thinking in much of my pedagocial design
+and have written a `book`_ on computational multibody dynamics, a `software
+package`_ for learning about mechanical vibrations, and contributed to a book
+on `Teaching and Learning with Jupyter`_. I try to make all of my teaching
+materials open access, which can be found on my various course websites:
+eme134_, eme150a_, eme171_, eme185_, eng004_, eng122_, mae223_, mae297_,
+me41035_, me41055_.
+
+.. _book: https://github.com/moorepants/learn-multibody-dynamics>
+.. _software package: https://github.com/moorepants/resonance
+.. _Teaching and Learning with Jupyter: https://jupyter4edu.github.io/jupyter-edu-book/
+.. _eme134: https://github.com/moorepants/eng134
+.. _eme150a: https://github.com/moorepants/eng150a
+.. _eme171: https://github.com/moorepants/eng171
+.. _eme185: https://github.com/moorepants/eng185
+.. _eng004: https://github.com/moorepants/eng4-website
+.. _eng122: https://github.com/moorepants/eng122
+.. _mae223: https://github.com/moorepants/mae223
+.. _mae297: https://github.com/moorepants/mae297
+.. _me41035: https://github.com/moorepants/me41035
+.. _me41055: https://github.com/moorepants/me41055
