@@ -38,7 +38,7 @@ physics vector_, mechanics_, and biomechanics_ packages therein for both
 research and teaching. I also help maintain other SymPy physics packages and
 its code generation tools. To support my and my lab's research, I have written
 and/or maintain a number of software packages: BicycleParameters_,
-DynamicistToolKit_, yeadon_, HumanControl_, pydy_, GaitAnalysisToolKit_, opty_,
+DynamicistToolKit_, yeadon_, HumanControl_, PyDy_, GaitAnalysisToolKit_, opty_,
 cyipopt_, and skijumpdesign_.
 
 .. _dissertation: https://github.com/moorepants/dissertation
@@ -79,7 +79,7 @@ cyipopt_, and skijumpdesign_.
 .. _DynamicistToolKit: https://github.com/moorepants/DynamicistToolKit
 .. _yeadon: https://github.com/chrisdembia/yeadon
 .. _HumanControl: https://github.com/moorepants/HumanControl
-.. _pydy: https://github.com/pydy/pydy
+.. _PyDy: https://github.com/pydy/pydy
 .. _GaitAnalysisToolKit: https://github.com/csu-hmc/GaitAnalysisToolKit
 .. _opty: https://github.com/csu-hmc/opty
 .. _cyipopt: https://github.com/mechmotum/cyipopt
